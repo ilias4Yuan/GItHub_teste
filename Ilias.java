@@ -10,6 +10,8 @@ public class Ilias {
         System.out.println("Bonjour tout le monde");
         System.out.println(home);
         System.out.println((a + b));
+        System.out.println("FIN");
+
 
     }
 }

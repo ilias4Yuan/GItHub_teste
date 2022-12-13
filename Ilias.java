@@ -5,18 +5,11 @@ public class Ilias {
      */
     public static void main(String[] args) {
         int a = 15;
-        final int b = 3;
-        String home;
-        home = "coupe du monde";
+        final double b = 3.14;
+        String home = "hello world";
         System.out.println("Bonjour tout le monde");
         System.out.println(home);
         System.out.println((a + b));
-        int i;
-        int factn = 1, n = 15;
-        for (i = 1; i <= n; i++) {
-            factn = i * factn;
-        }
-        System.out.println("le factoriel de 15 est :" + factn);
 
     }
 }
